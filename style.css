@@ -1,0 +1,18 @@
+body {
+  background: #d7eef5;
+}
+.drop {
+  position: absolute;
+  left: 0px;
+  top: -10px;
+  width: 10px;
+  height: 10px;
+  background: #79dbfc;
+  border-radius: 0px 5px 5px 5px;
+  transform: rotate(45deg);
+}
+.state {
+  font-size: 10px;
+  font-family: tahoma;
+  color: #333;
+}
